@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.migatotech
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [ app-name, assertj, flyway, gradle, graphql, http-client, java, java-application, jdbc-hikari, jooq, junit, junit-params, junit-platform-suite-engine, lombok, micronaut-aop, micronaut-aot, micronaut-build, micronaut-http-validation, mockito, mysql, netty-server, openapi, properties, readme, serialization-jackson, shade, slf4j-simple-logger, static-resources, swagger-ui, test-resources ]
